@@ -15,3 +15,14 @@ body{
             font-family: arial;
         
         }
+        .hunter{
+            border: 4px groove #000;
+            border-radius: 60px;
+            color: black;
+        }
+        #Hunter{
+            background-color: purple;
+            color: white;
+            font-size: 20pt;
+            
+        }
